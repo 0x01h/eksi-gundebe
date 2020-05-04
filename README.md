@@ -7,5 +7,5 @@ Ekşi Sözlük gündemine ve debesine tek tıkla her yerden ulaşın!
 ![Mozilla Add-on](https://img.shields.io/amo/v/eksi-gundebe)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/paggmjeaomdpidfckhchlfahhnbkkcdc)
 
-**Mozilla Add-on**: https://addons.mozilla.org/en-US/firefox/addon/eksi-gundebe/<br>
+**Mozilla Add-on**: https://addons.mozilla.org/tr/firefox/addon/ek%C5%9Fi-g%C3%BCndebe/<br>
 **Chrome Web Store**: https://chrome.google.com/webstore/detail/eksi-gundebe/paggmjeaomdpidfckhchlfahhnbkkcdc
