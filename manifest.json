@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Ekşi Gündebe",
+  "short_name": "eksi-gundebe",
+  "version": "0.0.1",
+  "author": "Orçun Özdemir",
+  "homepage_url": "https://github.com/0x01h/eksi-gundebe",
+  "description": "Ekşi Sözlük gündemine ve debesine tek tıkla her yerden ulaşın!",
+  "icons": {
+    "48": "icons/48x48.png",
+    "96": "icons/96x96.png"
+  },
+  "browser_action": {
+    "browser_style": true,
+    "default_icon": {
+      "48": "icons/48x48.png",
+      "96": "icons/96x96.png"
+    },
+    "default_title": "Ekşi Gündebe",
+    "default_popup": "popup/popup.html"
+  },
+  "permissions": ["<all_urls>", "tabs"]
+}

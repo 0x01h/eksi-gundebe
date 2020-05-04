@@ -1,0 +1,28 @@
+html,
+body {
+  background: white;
+}
+
+h1 {
+  padding-bottom: 5px;
+  display: block;
+  margin: auto;
+  color: #81c14b;
+  font-family: Optima, sans-serif;
+}
+
+a {
+  font-family: Didot, serif;
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  color: #81c14b;
+}
+
+ul {
+  list-style: square inside url("images/list-style.png");
+  padding: 7.5px;
+  margin: 7.5px;
+}
